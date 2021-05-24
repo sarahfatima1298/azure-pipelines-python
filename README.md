@@ -1,1 +1,3 @@
 # azure-pipelines-python
+
+scratch/release1.26
